@@ -243,7 +243,7 @@ export default function HPPConsultWebsite() {
               </div>
               <div>
                 <p className="text-sm text-slate-400">Email</p>
-                <p className="mt-1 text-lg font-semibold">your@email.com</p>
+                <p className="mt-1 text-lg font-semibold">samuel@hppconsult.com</p>
               </div>
               <div>
                 <p className="text-sm text-slate-400">Location</p>
